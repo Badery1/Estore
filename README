@@ -1,0 +1,5 @@
+Added placeholder Email info to .env to allow for password reset emails. Need to create a buisness email to handle this.
+
+Added a function to determine shipping costs based on weight. Need to figure out a final price.
+
+MAYBE add jwt manager
